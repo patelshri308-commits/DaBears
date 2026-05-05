@@ -29,7 +29,7 @@ The goal was to move beyond traditional volume-based metrics (like time of posse
 
 The final regression model uses three key features:
   point_diff ≈
-  YPP_diff
+  + YPP_diff (yards per play)
   + turnover_margin
   + explosive_play_margin
 
