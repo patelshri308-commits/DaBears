@@ -7,6 +7,7 @@ Try the model here: [Chicago Bears Game Outcome Predictor](https://2025chicagobe
 Author
 
 Shri Patel
+
 LinkedIn: https://www.linkedin.com/in/shripatel2003/
 
 **Executive Summary**
