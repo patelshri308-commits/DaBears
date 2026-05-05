@@ -5,6 +5,12 @@ Author
 Shri Patel
 LinkedIn: https://www.linkedin.com/in/shripatel2003/
 
+**Executive Summary**
+
+For a quick overview of the analysis, see the one-page summary:
+
+[Download Executive Summary](./bears-2025-executive-summary.pdf)
+
 This project analyzes the Chicago Bears 2025 season to identify which team-level statistics best explain game outcomes and point differential.
 
 The goal was to move beyond traditional volume-based metrics (like time of possession) and evaluate whether efficiency and impact-based metrics provide stronger predictive power.
