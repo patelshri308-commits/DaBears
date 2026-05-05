@@ -55,6 +55,6 @@ This combination provided the best balance of:
 This analysis shows that:
 
 * Efficiency metrics > volume metrics
-* Turnovers and explosive plays significantly influence outcomes beyond overall efficiency
+* Yards-Per-Play, Turnovers and explosive plays significantly influence outcomes beyond overall efficiency
 
 For football analytics, this suggests that evaluating performance through possession-based metrics alone may be misleading.
