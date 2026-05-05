@@ -17,7 +17,12 @@ st.write(
 )
 
 ypp_diff = st.slider("Yards Per Play Differential", -5.0, 5.0, 0.0, 0.1)
-turnover_margin = st.slider("Turnover Margin", -5, 5, 0)
+st.subheader("Turnovers")
+
+bears_turnovers = st.slider("Bears Turnovers (Giveaways)", 0, 5, 1)
+opp_turnovers = st.slider("Opponent Turnovers (Giveaways)", 0, 5, 1)
+
+turnover_margin = opp_turnovers - bears_turnovers
 explosive_play_margin = st.slider("Explosive Play Margin", -5, 5, 0)
 
 input_data = pd.DataFrame([{
