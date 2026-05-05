@@ -9,7 +9,7 @@ LinkedIn: https://www.linkedin.com/in/shripatel2003/
 
 For a quick overview of the analysis, see the one-page summary:
 
-[Download Executive Summary](./bears-2025-executive-summary.pdf)
+[Download Executive Summary](./bears-analysis-summary.pdf)
 
 This project analyzes the Chicago Bears 2025 season to identify which team-level statistics best explain game outcomes and point differential.
 
