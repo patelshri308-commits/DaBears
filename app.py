@@ -45,3 +45,13 @@ st.write("""
 - **Turnover Margin**: possession swing impact  
 - **Explosive Play Margin**: big-play advantage/disadvantage  
 """)
+
+st.divider()
+
+st.caption(
+
+    "Disclaimer: This model is trained using Chicago Bears 2025 regular season data only. "
+
+    "Predictions are based on historical patterns and are intended for analytical and educational purposes."
+
+)
