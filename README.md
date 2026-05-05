@@ -19,7 +19,7 @@ The goal was to move beyond traditional volume-based metrics (like time of posse
     * Explosive Play Margin (20+ yard plays)
 * Third Down Conversion Rate was tested but did not improve model performance, suggesting its effect is already captured by efficiency metrics.
 
-*** Final Model**
+**Final Model**
 
 The final regression model uses three key features:
   point_diff ≈
