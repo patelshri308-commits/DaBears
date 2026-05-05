@@ -55,3 +55,7 @@ This analysis shows that:
 * Yards-Per-Play, Turnovers and explosive plays significantly influence outcomes beyond overall efficiency
 
 For football analytics, this suggests that evaluating performance through possession-based metrics alone may be misleading.
+
+**Live Interactive App**
+
+Try the model here: [Chicago Bears Game Outcome Predictor](https://2025chicagobearsanalysis-zdvenbh7dv3zmykafu3mlg.streamlit.app/)
