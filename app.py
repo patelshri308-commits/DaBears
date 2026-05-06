@@ -20,8 +20,8 @@ st.subheader("Yards Per Play")
 ypp_diff = st.slider("Yards Per Play Differential", -5.0, 5.0, 0.0, 0.1)
 
 st.subheader("Turnovers")
-bears_takeaways = st.slider("Bears Takeaways Forced", 0, 5, 1)
-opp_takeaways = st.slider("Opponent Takeaways Forced", 0, 5, 1)
+bears_takeaways = st.slider("Opponent Takeaways (Bears Lose Ball)", 0, 5, 1)
+opp_takeaways = st.slider("Bears Takeaways (Bears Gain Ball)", 0, 5, 1)
 
 turnover_margin = bears_takeaways - opp_takeaways
 
