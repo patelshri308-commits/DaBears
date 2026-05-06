@@ -20,10 +20,10 @@ st.subheader("Yards Per Play")
 ypp_diff = st.slider("Yards Per Play Differential", -5.0, 5.0, 0.0, 0.1)
 
 st.subheader("Turnovers")
-bears_turnovers = st.slider("Bears Turnovers (Giveaways)", 0, 5, 1)
-opp_turnovers = st.slider("Opponent Turnovers (Giveaways)", 0, 5, 1)
+bears_takeaways = st.slider("Bears Takeaways Forced", 0, 5, 1)
+opp_takeaways = st.slider("Opponent Takeaways Forced", 0, 5, 1)
 
-turnover_margin = opp_turnovers - bears_turnovers
+turnover_margin = bears_takeaways - opp_takeaways
 
 st.subheader("Explosive Plays")
 explosive_play_margin = st.slider("Explosive Play Margin", -5, 5, 0)
