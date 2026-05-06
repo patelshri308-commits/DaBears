@@ -64,3 +64,17 @@ For football analytics, this suggests that evaluating performance through posses
 **Live Interactive App**
 
 Try the model here: [Chicago Bears Game Outcome Predictor](https://2025chicagobearsanalysis-zdvenbh7dv3zmykafu3mlg.streamlit.app/)
+
+**Data Sources**
+
+This project uses publicly available data from:
+
+* Pro-Football-Reference
+* nflverse
+
+All data is used for educational and analytical purposes only.
+
+Please refer to the respective sources for their terms of use:
+
+* https://www.pro-football-reference.com/
+* https://github.com/nflverse
