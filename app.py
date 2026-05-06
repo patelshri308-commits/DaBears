@@ -26,7 +26,7 @@ opp_takeaways = st.slider("Bears Takeaways (Bears Gain Ball)", 0, 5, 1)
 turnover_margin = bears_takeaways - opp_takeaways
 
 st.subheader("Explosive Plays")
-explosive_play_margin = st.slider("Explosive Play Margin", -5, 5, 0)
+explosive_play_margin = st.slider("Explosive Play Margin (Plays with 20+ yards gained)", -5, 5, 0)
 input_data = pd.DataFrame([{
     "YPP_Diff": ypp_diff,
     "turnover_margin": turnover_margin,
